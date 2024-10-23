@@ -1,7 +1,7 @@
 # Proyecto Final -Ignacio vargas 48931 --Menú
 
 ## Descripción
- Este proyecto es una aplicación web que simula un menú interactivo donde los usuarios pueden añadir, eliminar, modificar y filtrar productos como hamburguesas, gaseosas y papas. 
+ Este proyecto es una web que simula un menú interactivo donde los usuarios pueden añadir, eliminar, modificar y filtrar productos como hamburguesas, gaseosas y papas. 
  Diseñado para proporcionar una experiencia de usuario sencilla y eficaz en la gestión de productos.
 
 ## Instalación
